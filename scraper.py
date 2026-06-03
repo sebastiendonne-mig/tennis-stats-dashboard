@@ -1,6 +1,7 @@
 import requests
 from bs4 import BeautifulSoup
 import json
+import re
 from collections import defaultdict
 from datetime import datetime
 
@@ -21,54 +22,57 @@ def generer_statistiques_pays():
     soup = BeautifulSoup(response.text, 'html.parser')
     stats_pays = defaultdict(lambda: {"points": 0, "joueurs": 0})
 
-    # On récupère toutes les lignes du tableau
     rows = soup.find_all('tr')
-    print(f"Nombre de lignes trouvées : {len(rows)}")
-
     for row in rows:
         cells = row.find_all('td')
-        # Une ligne de joueur valide sur ce site contient au moins 9 à 11 cellules
-        if len(cells) >= 8:
+        if len(cells) >= 5:
             
-            # 1. Extraction du pays (généralement dans une cellule avec un lien vers le pays ou du texte en majuscules)
+            # 1. Trouver le pays
             pays = None
             for cell in cells:
-                # Cherche un lien qui ressemble à /en/country/xxx
-                a_tag = cell.find('a')
-                if a_tag and '/country/' in a_tag.get('href', ''):
-                    pays = a_tag.text.strip()
-                    break
-                # Alternative : si la cellule a exactement 3 lettres en majuscules (ex: FRA, ITA, USA)
                 txt = cell.text.strip()
                 if len(txt) == 3 and txt.isupper() and txt.isalpha():
                     pays = txt
                     break
+                a_tag = cell.find('a')
+                if a_tag and '/country/' in a_tag.get('href', ''):
+                    pays = a_tag.text.strip()
+                    break
             
-            # 2. Extraction des points actuels (colonne "Current Points")
-            # On cherche une cellule qui contient uniquement un nombre élevé (les points du joueur)
+            # 2. Trouver les points de manière ultra-robuste
             points = None
-            for cell in cells:
-                # Nettoyage de la cellule
-                clean_txt = cell.text.strip().replace('\xa0', '').replace(' ', '').replace(',', '')
-                # Si c'est un nombre et qu'il est supérieur à 10 (les joueurs du top ont bcp de points)
-                if clean_txt.isdigit() and int(clean_txt) > 10:
-                    # On s'assure de ne pas prendre l'âge ou le rang (souvent dans les 3 premières cellules)
-                    # Les points sont généralement situés au milieu/fin des cellules
-                    points = int(clean_txt)
-            
-            # Si on a trouvé à la fois un pays valide et des points
+            if pays:
+                # On cherche la cellule qui contient les points (souvent la 5ème ou 6ème cellule)
+                # On nettoie tout sauf les chiffres pour analyser
+                for cell in cells:
+                    cell_txt = "".join(cell.text.split()).replace(',', '').replace('.', '')
+                    
+                    # Si la cellule contient des chiffres
+                    if cell_txt.isdigit():
+                        val = int(cell_txt)
+                        # Les points du Top 1000 sont > 20 et excluent l'âge (souvent < 45)
+                        if 20 <= val <= 20000:
+                            # Double sécurité : on évite de confondre avec la cellule de l'âge
+                            # L'âge est souvent juste avant le pays ou contient une petite valeur
+                            if val != int(cells[0].text.strip().split('.')[0] if '.' in cells[0].text else 9999):
+                                points = val
+                
+                # Extraction de secours par Regex si le texte est collé (ex: "20-1")
+                if not points:
+                    for cell in cells:
+                        match = re.search(r'^(\d+)(?:[-+ ]|$)', cell.text.strip())
+                        if match:
+                            val = int(match.group(1))
+                            if 20 <= val <= 20000:
+                                points = val
+                                break
+
+            # 3. Accumulation
             if pays and points and len(pays) == 3:
-                # Sécurité pour éviter de confondre les points avec l'âge (ex: Sinner 24 ans, 13500 pts)
-                if points > 100: 
-                    stats_pays[pays]["points"] += points
-                    stats_pays[pays]["joueurs"] += 1
+                stats_pays[pays]["points"] += points
+                stats_pays[pays]["joueurs"] += 1
 
-    # Si le dictionnaire est vide, on met une donnée de test pour ne pas casser le HTML
-    if not stats_pays:
-        print("Avertissement : Aucun joueur trouvé, application du mode secours.")
-        stats_pays["FRA"] = {"points": 5000, "joueurs": 2}
-
-    # Tri par points
+    # Tri par points décroissants
     stats_triees = dict(sorted(stats_pays.items(), key=lambda item: item[1]['points'], reverse=True))
 
     resultat = {
@@ -79,7 +83,7 @@ def generer_statistiques_pays():
     with open('stats_tennis_pays.json', 'w', encoding='utf-8') as f:
         json.dump(resultat, f, indent=4, ensure_ascii=False)
     
-    print(f"Fichier écrit avec succès. Nombre de pays : {len(stats_triees)}")
+    print(f"Fichier écrit. Nombre de pays : {len(stats_triees)}. Exemple ITA : {stats_triees.get('ITA')}")
 
 if __name__ == "__main__":
     generer_statistiques_pays()
