@@ -1,24 +1,24 @@
 {
-    "derniere_mise_a_jour": "2026-06-11 08:44:39 UTC",
+    "derniere_mise_a_jour": "2026-06-12 08:23:49 UTC",
     "donnees": {
         "ITA": {
-            "points": 34252,
+            "points": 34264,
             "joueurs": 81
         },
         "USA": {
-            "points": 31452,
+            "points": 31484,
             "joueurs": 97
         },
         "ESP": {
-            "points": 23480,
+            "points": 23487,
             "joueurs": 54
         },
         "FRA": {
-            "points": 22148,
+            "points": 22212,
             "joueurs": 83
         },
         "ARG": {
-            "points": 15018,
+            "points": 15042,
             "joueurs": 46
         },
         "GER": {
@@ -34,7 +34,7 @@
             "joueurs": 30
         },
         "CZE": {
-            "points": 9546,
+            "points": 9593,
             "joueurs": 24
         },
         "GBR": {
@@ -49,24 +49,24 @@
             "points": 6745,
             "joueurs": 14
         },
+        "JPN": {
+            "points": 5171,
+            "joueurs": 43
+        },
         "BEL": {
             "points": 5148,
             "joueurs": 15
         },
-        "JPN": {
-            "points": 5139,
-            "joueurs": 43
-        },
         "KAZ": {
-            "points": 4513,
+            "points": 4517,
             "joueurs": 9
         },
         "BRA": {
-            "points": 4308,
+            "points": 4312,
             "joueurs": 28
         },
         "NED": {
-            "points": 4069,
+            "points": 4075,
             "joueurs": 18
         },
         "CRO": {
@@ -90,7 +90,7 @@
             "joueurs": 10
         },
         "CHN": {
-            "points": 2385,
+            "points": 2418,
             "joueurs": 15
         },
         "AUT": {
@@ -98,11 +98,11 @@
             "joueurs": 10
         },
         "HUN": {
-            "points": 2295,
+            "points": 2302,
             "joueurs": 8
         },
         "POL": {
-            "points": 2233,
+            "points": 2258,
             "joueurs": 11
         },
         "MON": {
@@ -130,7 +130,7 @@
             "joueurs": 15
         },
         "COL": {
-            "points": 1063,
+            "points": 1074,
             "joueurs": 12
         },
         "BIH": {
