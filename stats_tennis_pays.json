@@ -1,24 +1,24 @@
 {
-    "derniere_mise_a_jour": "2026-06-20 07:48:36 UTC",
+    "derniere_mise_a_jour": "2026-06-21 08:28:27 UTC",
     "donnees": {
         "ITA": {
             "points": 34217,
             "joueurs": 81
         },
         "USA": {
-            "points": 32456,
+            "points": 32846,
             "joueurs": 99
         },
         "ESP": {
-            "points": 22870,
+            "points": 22895,
             "joueurs": 53
         },
         "FRA": {
-            "points": 22498,
+            "points": 22559,
             "joueurs": 84
         },
         "ARG": {
-            "points": 15205,
+            "points": 15335,
             "joueurs": 45
         },
         "GER": {
@@ -26,7 +26,7 @@
             "joueurs": 44
         },
         "AUS": {
-            "points": 12059,
+            "points": 12120,
             "joueurs": 36
         },
         "RUS": {
@@ -38,7 +38,7 @@
             "joueurs": 24
         },
         "GBR": {
-            "points": 9034,
+            "points": 9065,
             "joueurs": 44
         },
         "CAN": {
@@ -58,7 +58,7 @@
             "joueurs": 44
         },
         "BRA": {
-            "points": 4371,
+            "points": 4421,
             "joueurs": 28
         },
         "KAZ": {
@@ -98,7 +98,7 @@
             "joueurs": 12
         },
         "AUT": {
-            "points": 2301,
+            "points": 2323,
             "joueurs": 10
         },
         "HUN": {
@@ -225,13 +225,13 @@
             "points": 277,
             "joueurs": 3
         },
+        "DOM": {
+            "points": 239,
+            "joueurs": 2
+        },
         "BLR": {
             "points": 239,
             "joueurs": 4
-        },
-        "DOM": {
-            "points": 214,
-            "joueurs": 2
         },
         "SLO": {
             "points": 204,
