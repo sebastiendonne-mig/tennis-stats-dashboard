@@ -1,5 +1,5 @@
 {
-    "derniere_mise_a_jour": "2026-06-27 06:50:39 UTC",
+    "derniere_mise_a_jour": "2026-06-28 07:48:57 UTC",
     "donnees": {
         "ITA": {
             "points": 34068,
@@ -10,7 +10,7 @@
             "joueurs": 98
         },
         "ESP": {
-            "points": 22931,
+            "points": 23041,
             "joueurs": 53
         },
         "FRA": {
@@ -18,7 +18,7 @@
             "joueurs": 83
         },
         "ARG": {
-            "points": 15545,
+            "points": 15556,
             "joueurs": 43
         },
         "GER": {
@@ -58,7 +58,7 @@
             "joueurs": 44
         },
         "BRA": {
-            "points": 4406,
+            "points": 4417,
             "joueurs": 28
         },
         "KAZ": {
@@ -141,13 +141,13 @@
             "points": 1039,
             "joueurs": 4
         },
+        "IND": {
+            "points": 1028,
+            "joueurs": 13
+        },
         "BUL": {
             "points": 1014,
             "joueurs": 10
-        },
-        "IND": {
-            "points": 997,
-            "joueurs": 13
         },
         "BOL": {
             "points": 861,
