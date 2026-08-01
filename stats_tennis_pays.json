@@ -1,28 +1,28 @@
 {
-    "derniere_mise_a_jour": "2026-07-31 06:41:25 UTC",
+    "derniere_mise_a_jour": "2026-08-01 06:26:09 UTC",
     "donnees": {
         "ITA": {
             "points": 33255,
             "joueurs": 79
         },
         "USA": {
-            "points": 30174,
+            "points": 30403,
             "joueurs": 96
         },
         "FRA": {
-            "points": 22559,
+            "points": 22636,
             "joueurs": 84
         },
         "ESP": {
-            "points": 21576,
+            "points": 21676,
             "joueurs": 52
         },
         "ARG": {
-            "points": 15191,
+            "points": 15220,
             "joueurs": 46
         },
         "GER": {
-            "points": 15007,
+            "points": 15017,
             "joueurs": 46
         },
         "AUS": {
@@ -30,7 +30,7 @@
             "joueurs": 38
         },
         "GBR": {
-            "points": 9524,
+            "points": 9584,
             "joueurs": 43
         },
         "RUS": {
@@ -38,7 +38,7 @@
             "joueurs": 30
         },
         "CZE": {
-            "points": 9062,
+            "points": 9072,
             "joueurs": 24
         },
         "CAN": {
@@ -54,7 +54,7 @@
             "joueurs": 15
         },
         "JPN": {
-            "points": 5308,
+            "points": 5314,
             "joueurs": 44
         },
         "BRA": {
@@ -73,6 +73,10 @@
             "points": 3107,
             "joueurs": 18
         },
+        "CHI": {
+            "points": 2970,
+            "joueurs": 9
+        },
         "NOR": {
             "points": 2892,
             "joueurs": 5
@@ -81,12 +85,8 @@
             "points": 2887,
             "joueurs": 9
         },
-        "CHI": {
-            "points": 2870,
-            "joueurs": 9
-        },
         "CRO": {
-            "points": 2707,
+            "points": 2726,
             "joueurs": 10
         },
         "POL": {
@@ -110,7 +110,7 @@
             "joueurs": 11
         },
         "PER": {
-            "points": 1989,
+            "points": 2018,
             "joueurs": 6
         },
         "GRE": {
@@ -122,7 +122,7 @@
             "joueurs": 6
         },
         "SVK": {
-            "points": 1315,
+            "points": 1325,
             "joueurs": 8
         },
         "ROU": {
@@ -146,8 +146,8 @@
             "joueurs": 4
         },
         "IND": {
-            "points": 997,
-            "joueurs": 14
+            "points": 987,
+            "joueurs": 13
         },
         "BOL": {
             "points": 961,
@@ -166,12 +166,16 @@
             "joueurs": 5
         },
         "LTU": {
-            "points": 709,
+            "points": 728,
             "joueurs": 2
         },
         "EST": {
-            "points": 696,
+            "points": 725,
             "joueurs": 3
+        },
+        "SWE": {
+            "points": 689,
+            "joueurs": 9
         },
         "HKG": {
             "points": 680,
@@ -180,10 +184,6 @@
         "RSA": {
             "points": 666,
             "joueurs": 6
-        },
-        "SWE": {
-            "points": 661,
-            "joueurs": 8
         },
         "TUR": {
             "points": 595,
