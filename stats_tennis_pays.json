@@ -1,20 +1,20 @@
 {
-    "derniere_mise_a_jour": "2026-08-06 06:27:09 UTC",
+    "derniere_mise_a_jour": "2026-08-07 05:38:11 UTC",
     "donnees": {
         "ITA": {
-            "points": 33482,
+            "points": 33543,
             "joueurs": 79
         },
         "USA": {
-            "points": 31187,
+            "points": 31249,
             "joueurs": 98
         },
         "FRA": {
-            "points": 23055,
+            "points": 23169,
             "joueurs": 84
         },
         "ESP": {
-            "points": 21968,
+            "points": 22031,
             "joueurs": 51
         },
         "ARG": {
@@ -30,7 +30,7 @@
             "joueurs": 37
         },
         "GBR": {
-            "points": 9765,
+            "points": 9815,
             "joueurs": 43
         },
         "RUS": {
@@ -38,7 +38,7 @@
             "joueurs": 28
         },
         "CZE": {
-            "points": 9203,
+            "points": 9253,
             "joueurs": 24
         },
         "CAN": {
@@ -54,7 +54,7 @@
             "joueurs": 15
         },
         "JPN": {
-            "points": 5379,
+            "points": 5393,
             "joueurs": 44
         },
         "BRA": {
@@ -70,11 +70,11 @@
             "joueurs": 17
         },
         "SUI": {
-            "points": 3114,
+            "points": 3121,
             "joueurs": 18
         },
         "POR": {
-            "points": 2969,
+            "points": 3019,
             "joueurs": 9
         },
         "CHI": {
@@ -106,7 +106,7 @@
             "joueurs": 2
         },
         "AUT": {
-            "points": 2169,
+            "points": 2175,
             "joueurs": 11
         },
         "PER": {
@@ -118,7 +118,7 @@
             "joueurs": 7
         },
         "DEN": {
-            "points": 1446,
+            "points": 1453,
             "joueurs": 6
         },
         "SVK": {
@@ -126,7 +126,7 @@
             "joueurs": 8
         },
         "ROU": {
-            "points": 1264,
+            "points": 1268,
             "joueurs": 15
         },
         "BUL": {
@@ -158,20 +158,20 @@
             "joueurs": 1
         },
         "KOR": {
-            "points": 810,
+            "points": 814,
             "joueurs": 10
         },
         "FIN": {
             "points": 743,
             "joueurs": 5
         },
+        "LTU": {
+            "points": 740,
+            "joueurs": 2
+        },
         "EST": {
             "points": 739,
             "joueurs": 3
-        },
-        "LTU": {
-            "points": 734,
-            "joueurs": 2
         },
         "SWE": {
             "points": 715,
