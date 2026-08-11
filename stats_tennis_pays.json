@@ -1,12 +1,12 @@
 {
-    "derniere_mise_a_jour": "2026-08-10 05:23:12 UTC",
+    "derniere_mise_a_jour": "2026-08-11 05:05:05 UTC",
     "donnees": {
         "ITA": {
-            "points": 33717,
+            "points": 33718,
             "joueurs": 79
         },
         "USA": {
-            "points": 31691,
+            "points": 31695,
             "joueurs": 98
         },
         "FRA": {
@@ -30,7 +30,7 @@
             "joueurs": 37
         },
         "GBR": {
-            "points": 9815,
+            "points": 9818,
             "joueurs": 43
         },
         "RUS": {
@@ -50,7 +50,7 @@
             "joueurs": 13
         },
         "BEL": {
-            "points": 5770,
+            "points": 5771,
             "joueurs": 15
         },
         "JPN": {
@@ -90,7 +90,7 @@
             "joueurs": 9
         },
         "POL": {
-            "points": 2688,
+            "points": 2689,
             "joueurs": 12
         },
         "HUN": {
@@ -102,7 +102,7 @@
             "joueurs": 13
         },
         "AUT": {
-            "points": 2238,
+            "points": 2240,
             "joueurs": 11
         },
         "MON": {
@@ -118,7 +118,7 @@
             "joueurs": 7
         },
         "DEN": {
-            "points": 1464,
+            "points": 1466,
             "joueurs": 6
         },
         "SVK": {
@@ -126,11 +126,11 @@
             "joueurs": 8
         },
         "ROU": {
-            "points": 1274,
+            "points": 1276,
             "joueurs": 15
         },
         "BUL": {
-            "points": 1215,
+            "points": 1217,
             "joueurs": 12
         },
         "COL": {
@@ -170,7 +170,7 @@
             "joueurs": 3
         },
         "FIN": {
-            "points": 743,
+            "points": 744,
             "joueurs": 5
         },
         "SWE": {
@@ -234,7 +234,7 @@
             "joueurs": 2
         },
         "SLO": {
-            "points": 229,
+            "points": 230,
             "joueurs": 3
         },
         "JOR": {
@@ -242,7 +242,7 @@
             "joueurs": 1
         },
         "MKD": {
-            "points": 168,
+            "points": 170,
             "joueurs": 2
         },
         "CIV": {
