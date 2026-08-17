@@ -1,48 +1,48 @@
 {
-    "derniere_mise_a_jour": "2026-08-16 04:32:12 UTC",
+    "derniere_mise_a_jour": "2026-08-17 04:37:35 UTC",
     "donnees": {
         "ITA": {
-            "points": 32589,
+            "points": 32630,
             "joueurs": 79
         },
         "USA": {
-            "points": 32246,
+            "points": 32443,
             "joueurs": 97
         },
         "FRA": {
-            "points": 22443,
+            "points": 22469,
             "joueurs": 84
         },
         "ESP": {
-            "points": 21139,
+            "points": 21164,
             "joueurs": 50
         },
         "ARG": {
-            "points": 15281,
+            "points": 15302,
             "joueurs": 46
         },
         "GER": {
-            "points": 14761,
+            "points": 14804,
             "joueurs": 45
         },
         "AUS": {
-            "points": 11347,
+            "points": 11396,
             "joueurs": 37
         },
         "GBR": {
-            "points": 9689,
+            "points": 9691,
             "joueurs": 43
         },
         "CZE": {
-            "points": 9216,
+            "points": 9282,
             "joueurs": 23
         },
         "RUS": {
-            "points": 9102,
+            "points": 9182,
             "joueurs": 28
         },
         "CAN": {
-            "points": 7097,
+            "points": 7137,
             "joueurs": 10
         },
         "SRB": {
@@ -54,11 +54,11 @@
             "joueurs": 16
         },
         "JPN": {
-            "points": 5313,
+            "points": 5340,
             "joueurs": 44
         },
         "BRA": {
-            "points": 4678,
+            "points": 4720,
             "joueurs": 28
         },
         "KAZ": {
@@ -70,11 +70,11 @@
             "joueurs": 19
         },
         "POR": {
-            "points": 3073,
+            "points": 3113,
             "joueurs": 10
         },
         "SUI": {
-            "points": 3066,
+            "points": 3079,
             "joueurs": 18
         },
         "NOR": {
@@ -90,7 +90,7 @@
             "joueurs": 9
         },
         "POL": {
-            "points": 2572,
+            "points": 2573,
             "joueurs": 11
         },
         "CHN": {
@@ -122,11 +122,11 @@
             "joueurs": 6
         },
         "SVK": {
-            "points": 1208,
+            "points": 1212,
             "joueurs": 8
         },
         "ROU": {
-            "points": 1202,
+            "points": 1204,
             "joueurs": 15
         },
         "BUL": {
@@ -134,15 +134,15 @@
             "joueurs": 12
         },
         "COL": {
-            "points": 1155,
+            "points": 1157,
             "joueurs": 12
         },
         "UKR": {
-            "points": 1111,
+            "points": 1114,
             "joueurs": 11
         },
         "BIH": {
-            "points": 984,
+            "points": 986,
             "joueurs": 4
         },
         "IND": {
@@ -169,17 +169,17 @@
             "points": 766,
             "joueurs": 9
         },
+        "RSA": {
+            "points": 759,
+            "joueurs": 6
+        },
         "EST": {
             "points": 754,
             "joueurs": 3
         },
         "SWE": {
-            "points": 738,
+            "points": 745,
             "joueurs": 10
-        },
-        "RSA": {
-            "points": 717,
-            "joueurs": 6
         },
         "HKG": {
             "points": 660,
@@ -246,7 +246,7 @@
             "joueurs": 4
         },
         "LAT": {
-            "points": 163,
+            "points": 170,
             "joueurs": 2
         },
         "CIV": {
@@ -262,11 +262,11 @@
             "joueurs": 1
         },
         "LBN": {
-            "points": 123,
+            "points": 124,
             "joueurs": 2
         },
         "MDA": {
-            "points": 99,
+            "points": 100,
             "joueurs": 2
         },
         "NMI": {
@@ -274,7 +274,7 @@
             "joueurs": 1
         },
         "IRL": {
-            "points": 76,
+            "points": 83,
             "joueurs": 3
         },
         "IRI": {
