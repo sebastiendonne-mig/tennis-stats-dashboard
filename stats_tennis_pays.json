@@ -1,48 +1,48 @@
 {
-    "derniere_mise_a_jour": "2026-08-18 04:31:46 UTC",
+    "derniere_mise_a_jour": "2026-08-19 04:33:36 UTC",
     "donnees": {
         "ITA": {
-            "points": 32680,
+            "points": 32739,
             "joueurs": 79
         },
         "USA": {
-            "points": 32449,
+            "points": 32664,
             "joueurs": 97
         },
         "FRA": {
-            "points": 22531,
+            "points": 22548,
             "joueurs": 84
         },
         "ESP": {
-            "points": 21218,
+            "points": 21236,
             "joueurs": 50
         },
         "ARG": {
-            "points": 15356,
+            "points": 15358,
             "joueurs": 46
         },
         "GER": {
-            "points": 14856,
+            "points": 14870,
             "joueurs": 45
         },
         "AUS": {
-            "points": 11524,
+            "points": 11538,
             "joueurs": 38
         },
         "GBR": {
-            "points": 9697,
+            "points": 9712,
             "joueurs": 43
         },
         "CZE": {
-            "points": 9332,
+            "points": 9344,
             "joueurs": 23
         },
         "RUS": {
-            "points": 9182,
+            "points": 9190,
             "joueurs": 28
         },
         "CAN": {
-            "points": 7137,
+            "points": 7187,
             "joueurs": 10
         },
         "SRB": {
@@ -50,15 +50,15 @@
             "joueurs": 13
         },
         "BEL": {
-            "points": 5739,
+            "points": 5745,
             "joueurs": 16
         },
         "JPN": {
-            "points": 5345,
+            "points": 5357,
             "joueurs": 44
         },
         "BRA": {
-            "points": 4733,
+            "points": 4739,
             "joueurs": 28
         },
         "KAZ": {
@@ -66,19 +66,19 @@
             "joueurs": 9
         },
         "NED": {
-            "points": 3806,
+            "points": 3818,
             "joueurs": 19
         },
         "POR": {
-            "points": 3113,
+            "points": 3215,
             "joueurs": 10
         },
         "SUI": {
-            "points": 3079,
+            "points": 3105,
             "joueurs": 18
         },
         "NOR": {
-            "points": 2955,
+            "points": 2963,
             "joueurs": 5
         },
         "CHI": {
@@ -114,19 +114,19 @@
             "joueurs": 6
         },
         "GRE": {
-            "points": 1652,
+            "points": 1653,
             "joueurs": 7
         },
         "DEN": {
-            "points": 1263,
+            "points": 1267,
             "joueurs": 6
         },
         "ROU": {
-            "points": 1216,
+            "points": 1227,
             "joueurs": 15
         },
         "SVK": {
-            "points": 1214,
+            "points": 1220,
             "joueurs": 8
         },
         "BUL": {
@@ -138,7 +138,7 @@
             "joueurs": 12
         },
         "UKR": {
-            "points": 1118,
+            "points": 1124,
             "joueurs": 11
         },
         "BIH": {
@@ -154,7 +154,7 @@
             "joueurs": 1
         },
         "BOL": {
-            "points": 912,
+            "points": 918,
             "joueurs": 3
         },
         "LTU": {
@@ -166,11 +166,11 @@
             "joueurs": 6
         },
         "KOR": {
-            "points": 771,
+            "points": 773,
             "joueurs": 9
         },
         "RSA": {
-            "points": 762,
+            "points": 764,
             "joueurs": 6
         },
         "EST": {
@@ -198,7 +198,7 @@
             "joueurs": 6
         },
         "ECU": {
-            "points": 424,
+            "points": 428,
             "joueurs": 2
         },
         "LUX": {
@@ -262,11 +262,11 @@
             "joueurs": 1
         },
         "LBN": {
-            "points": 126,
+            "points": 130,
             "joueurs": 2
         },
         "MDA": {
-            "points": 102,
+            "points": 106,
             "joueurs": 2
         },
         "NMI": {
