@@ -1,20 +1,20 @@
 {
-    "derniere_mise_a_jour": "2026-08-21 04:34:45 UTC",
+    "derniere_mise_a_jour": "2026-08-22 04:28:58 UTC",
     "donnees": {
+        "USA": {
+            "points": 33464,
+            "joueurs": 97
+        },
         "ITA": {
             "points": 33156,
             "joueurs": 79
         },
-        "USA": {
-            "points": 33064,
-            "joueurs": 97
-        },
         "FRA": {
-            "points": 22935,
+            "points": 23003,
             "joueurs": 84
         },
         "ESP": {
-            "points": 21252,
+            "points": 21274,
             "joueurs": 50
         },
         "ARG": {
@@ -30,11 +30,11 @@
             "joueurs": 38
         },
         "GBR": {
-            "points": 9755,
+            "points": 9766,
             "joueurs": 43
         },
         "CZE": {
-            "points": 9366,
+            "points": 9388,
             "joueurs": 23
         },
         "RUS": {
@@ -54,7 +54,7 @@
             "joueurs": 16
         },
         "JPN": {
-            "points": 5373,
+            "points": 5392,
             "joueurs": 44
         },
         "BRA": {
@@ -74,7 +74,7 @@
             "joueurs": 10
         },
         "SUI": {
-            "points": 3119,
+            "points": 3130,
             "joueurs": 18
         },
         "NOR": {
@@ -90,7 +90,7 @@
             "joueurs": 9
         },
         "POL": {
-            "points": 2591,
+            "points": 2610,
             "joueurs": 11
         },
         "CHN": {
@@ -114,7 +114,7 @@
             "joueurs": 6
         },
         "GRE": {
-            "points": 1669,
+            "points": 1688,
             "joueurs": 7
         },
         "DEN": {
@@ -157,6 +157,10 @@
             "points": 924,
             "joueurs": 3
         },
+        "RSA": {
+            "points": 799,
+            "joueurs": 6
+        },
         "LTU": {
             "points": 797,
             "joueurs": 2
@@ -168,10 +172,6 @@
         "KOR": {
             "points": 781,
             "joueurs": 9
-        },
-        "RSA": {
-            "points": 780,
-            "joueurs": 6
         },
         "EST": {
             "points": 770,
@@ -258,7 +258,7 @@
             "joueurs": 2
         },
         "LBN": {
-            "points": 140,
+            "points": 151,
             "joueurs": 2
         },
         "JAM": {
