@@ -1,8 +1,8 @@
 {
-    "derniere_mise_a_jour": "2026-08-22 04:28:58 UTC",
+    "derniere_mise_a_jour": "2026-08-23 04:33:32 UTC",
     "donnees": {
         "USA": {
-            "points": 33464,
+            "points": 33714,
             "joueurs": 97
         },
         "ITA": {
@@ -10,7 +10,7 @@
             "joueurs": 79
         },
         "FRA": {
-            "points": 23003,
+            "points": 23313,
             "joueurs": 84
         },
         "ESP": {
@@ -18,7 +18,7 @@
             "joueurs": 50
         },
         "ARG": {
-            "points": 15468,
+            "points": 15507,
             "joueurs": 46
         },
         "GER": {
@@ -30,11 +30,11 @@
             "joueurs": 38
         },
         "GBR": {
-            "points": 9766,
+            "points": 9791,
             "joueurs": 43
         },
         "CZE": {
-            "points": 9388,
+            "points": 9419,
             "joueurs": 23
         },
         "RUS": {
@@ -74,7 +74,7 @@
             "joueurs": 10
         },
         "SUI": {
-            "points": 3130,
+            "points": 3155,
             "joueurs": 18
         },
         "NOR": {
@@ -90,7 +90,7 @@
             "joueurs": 9
         },
         "POL": {
-            "points": 2610,
+            "points": 2639,
             "joueurs": 11
         },
         "CHN": {
@@ -114,7 +114,7 @@
             "joueurs": 6
         },
         "GRE": {
-            "points": 1688,
+            "points": 1717,
             "joueurs": 7
         },
         "DEN": {
@@ -197,13 +197,13 @@
             "points": 512,
             "joueurs": 6
         },
+        "TUN": {
+            "points": 443,
+            "joueurs": 4
+        },
         "ECU": {
             "points": 428,
             "joueurs": 2
-        },
-        "TUN": {
-            "points": 424,
-            "joueurs": 4
         },
         "LUX": {
             "points": 409,
