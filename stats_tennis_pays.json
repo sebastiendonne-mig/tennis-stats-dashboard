@@ -1,5 +1,5 @@
 {
-    "derniere_mise_a_jour": "2026-08-23 04:33:32 UTC",
+    "derniere_mise_a_jour": "2026-08-24 04:40:34 UTC",
     "donnees": {
         "USA": {
             "points": 33714,
@@ -10,7 +10,7 @@
             "joueurs": 79
         },
         "FRA": {
-            "points": 23313,
+            "points": 23724,
             "joueurs": 84
         },
         "ESP": {
@@ -90,7 +90,7 @@
             "joueurs": 9
         },
         "POL": {
-            "points": 2639,
+            "points": 2700,
             "joueurs": 11
         },
         "CHN": {
