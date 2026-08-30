@@ -1,8 +1,8 @@
 {
-    "derniere_mise_a_jour": "2026-08-29 10:45:18 UTC",
+    "derniere_mise_a_jour": "2026-08-30 09:43:16 UTC",
     "donnees": {
         "USA": {
-            "points": 33850,
+            "points": 33881,
             "joueurs": 97
         },
         "ITA": {
@@ -30,7 +30,7 @@
             "joueurs": 38
         },
         "GBR": {
-            "points": 10070,
+            "points": 10095,
             "joueurs": 43
         },
         "CZE": {
@@ -101,13 +101,13 @@
             "points": 2279,
             "joueurs": 9
         },
+        "PER": {
+            "points": 2242,
+            "joueurs": 6
+        },
         "MON": {
             "points": 2192,
             "joueurs": 2
-        },
-        "PER": {
-            "points": 2157,
-            "joueurs": 6
         },
         "AUT": {
             "points": 2063,
@@ -118,7 +118,7 @@
             "joueurs": 7
         },
         "ROU": {
-            "points": 1284,
+            "points": 1309,
             "joueurs": 15
         },
         "DEN": {
