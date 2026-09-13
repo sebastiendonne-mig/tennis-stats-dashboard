@@ -1,5 +1,5 @@
 {
-    "derniere_mise_a_jour": "2026-09-12 08:20:43 UTC",
+    "derniere_mise_a_jour": "2026-09-13 08:49:58 UTC",
     "donnees": {
         "USA": {
             "points": 35855,
@@ -10,11 +10,11 @@
             "joueurs": 78
         },
         "FRA": {
-            "points": 23598,
+            "points": 23620,
             "joueurs": 84
         },
         "ESP": {
-            "points": 19380,
+            "points": 19409,
             "joueurs": 49
         },
         "GER": {
@@ -22,7 +22,7 @@
             "joueurs": 46
         },
         "ARG": {
-            "points": 15663,
+            "points": 15692,
             "joueurs": 46
         },
         "AUS": {
@@ -30,11 +30,11 @@
             "joueurs": 39
         },
         "RUS": {
-            "points": 10084,
+            "points": 10134,
             "joueurs": 30
         },
         "GBR": {
-            "points": 9650,
+            "points": 9672,
             "joueurs": 39
         },
         "CZE": {
@@ -50,15 +50,15 @@
             "joueurs": 16
         },
         "SRB": {
-            "points": 5827,
+            "points": 5856,
             "joueurs": 13
         },
         "JPN": {
-            "points": 5215,
+            "points": 5237,
             "joueurs": 43
         },
         "BRA": {
-            "points": 4883,
+            "points": 4937,
             "joueurs": 30
         },
         "NED": {
@@ -82,7 +82,7 @@
             "joueurs": 5
         },
         "SUI": {
-            "points": 2715,
+            "points": 2740,
             "joueurs": 17
         },
         "CRO": {
@@ -173,13 +173,13 @@
             "points": 797,
             "joueurs": 11
         },
+        "EST": {
+            "points": 791,
+            "joueurs": 3
+        },
         "RSA": {
             "points": 773,
             "joueurs": 5
-        },
-        "EST": {
-            "points": 769,
-            "joueurs": 3
         },
         "HKG": {
             "points": 578,
@@ -214,7 +214,7 @@
             "joueurs": 5
         },
         "BLR": {
-            "points": 350,
+            "points": 375,
             "joueurs": 5
         },
         "URU": {
