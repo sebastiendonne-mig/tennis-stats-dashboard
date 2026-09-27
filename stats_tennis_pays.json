@@ -1,20 +1,20 @@
 {
-    "derniere_mise_a_jour": "2026-09-26 09:04:35 UTC",
+    "derniere_mise_a_jour": "2026-09-27 09:47:55 UTC",
     "donnees": {
         "USA": {
-            "points": 34788,
+            "points": 34810,
             "joueurs": 99
         },
         "ITA": {
-            "points": 30557,
+            "points": 30579,
             "joueurs": 77
         },
         "FRA": {
-            "points": 23352,
+            "points": 23460,
             "joueurs": 81
         },
         "ESP": {
-            "points": 18893,
+            "points": 18965,
             "joueurs": 49
         },
         "GER": {
@@ -22,7 +22,7 @@
             "joueurs": 46
         },
         "ARG": {
-            "points": 15597,
+            "points": 15641,
             "joueurs": 44
         },
         "AUS": {
@@ -30,7 +30,7 @@
             "joueurs": 39
         },
         "RUS": {
-            "points": 10324,
+            "points": 10364,
             "joueurs": 30
         },
         "GBR": {
@@ -38,7 +38,7 @@
             "joueurs": 40
         },
         "CZE": {
-            "points": 8721,
+            "points": 8743,
             "joueurs": 21
         },
         "CAN": {
@@ -58,7 +58,7 @@
             "joueurs": 44
         },
         "BRA": {
-            "points": 5017,
+            "points": 5039,
             "joueurs": 29
         },
         "NED": {
@@ -78,7 +78,7 @@
             "joueurs": 9
         },
         "CRO": {
-            "points": 2784,
+            "points": 2806,
             "joueurs": 9
         },
         "SUI": {
@@ -94,7 +94,7 @@
             "joueurs": 5
         },
         "CHN": {
-            "points": 2388,
+            "points": 2413,
             "joueurs": 15
         },
         "MON": {
@@ -157,6 +157,10 @@
             "points": 937,
             "joueurs": 3
         },
+        "RSA": {
+            "points": 816,
+            "joueurs": 5
+        },
         "KOR": {
             "points": 814,
             "joueurs": 11
@@ -169,10 +173,6 @@
             "points": 809,
             "joueurs": 6
         },
-        "RSA": {
-            "points": 791,
-            "joueurs": 5
-        },
         "EST": {
             "points": 734,
             "joueurs": 3
@@ -182,11 +182,11 @@
             "joueurs": 2
         },
         "HKG": {
-            "points": 595,
+            "points": 620,
             "joueurs": 1
         },
         "GEO": {
-            "points": 559,
+            "points": 609,
             "joueurs": 3
         },
         "TUR": {
