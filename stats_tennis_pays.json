@@ -1,8 +1,8 @@
 {
-    "derniere_mise_a_jour": "2026-09-27 09:47:55 UTC",
+    "derniere_mise_a_jour": "2026-09-28 10:31:43 UTC",
     "donnees": {
         "USA": {
-            "points": 34810,
+            "points": 34841,
             "joueurs": 99
         },
         "ITA": {
@@ -10,11 +10,11 @@
             "joueurs": 77
         },
         "FRA": {
-            "points": 23460,
+            "points": 23521,
             "joueurs": 81
         },
         "ESP": {
-            "points": 18965,
+            "points": 18996,
             "joueurs": 49
         },
         "GER": {
@@ -22,7 +22,7 @@
             "joueurs": 46
         },
         "ARG": {
-            "points": 15641,
+            "points": 15672,
             "joueurs": 44
         },
         "AUS": {
@@ -30,7 +30,7 @@
             "joueurs": 39
         },
         "RUS": {
-            "points": 10364,
+            "points": 10514,
             "joueurs": 30
         },
         "GBR": {
@@ -42,7 +42,7 @@
             "joueurs": 21
         },
         "CAN": {
-            "points": 6429,
+            "points": 6479,
             "joueurs": 10
         },
         "SRB": {
@@ -78,16 +78,16 @@
             "joueurs": 9
         },
         "CRO": {
-            "points": 2806,
+            "points": 2837,
             "joueurs": 9
+        },
+        "POL": {
+            "points": 2823,
+            "joueurs": 12
         },
         "SUI": {
             "points": 2783,
             "joueurs": 18
-        },
-        "POL": {
-            "points": 2773,
-            "joueurs": 12
         },
         "NOR": {
             "points": 2719,
