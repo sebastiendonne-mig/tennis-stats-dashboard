@@ -1,5 +1,5 @@
 {
-    "derniere_mise_a_jour": "2026-09-28 10:31:43 UTC",
+    "derniere_mise_a_jour": "2026-09-29 10:23:25 UTC",
     "donnees": {
         "USA": {
             "points": 34841,
@@ -14,7 +14,7 @@
             "joueurs": 81
         },
         "ESP": {
-            "points": 18996,
+            "points": 19061,
             "joueurs": 49
         },
         "GER": {
@@ -30,7 +30,7 @@
             "joueurs": 39
         },
         "RUS": {
-            "points": 10514,
+            "points": 10644,
             "joueurs": 30
         },
         "GBR": {
@@ -73,6 +73,10 @@
             "points": 3146,
             "joueurs": 10
         },
+        "POL": {
+            "points": 2888,
+            "joueurs": 12
+        },
         "CHI": {
             "points": 2860,
             "joueurs": 9
@@ -80,10 +84,6 @@
         "CRO": {
             "points": 2837,
             "joueurs": 9
-        },
-        "POL": {
-            "points": 2823,
-            "joueurs": 12
         },
         "SUI": {
             "points": 2783,
