@@ -1,36 +1,36 @@
 {
-    "derniere_mise_a_jour": "2026-10-03 09:39:14 UTC",
+    "derniere_mise_a_jour": "2026-10-04 10:23:31 UTC",
     "donnees": {
         "USA": {
             "points": 34936,
             "joueurs": 98
         },
         "ITA": {
-            "points": 30868,
+            "points": 30890,
             "joueurs": 78
         },
         "FRA": {
-            "points": 24059,
+            "points": 24103,
             "joueurs": 81
         },
         "ESP": {
-            "points": 19503,
+            "points": 19732,
             "joueurs": 49
         },
         "GER": {
-            "points": 16527,
+            "points": 16577,
             "joueurs": 47
         },
         "ARG": {
-            "points": 15761,
+            "points": 15833,
             "joueurs": 44
         },
         "AUS": {
-            "points": 11051,
+            "points": 11151,
             "joueurs": 39
         },
         "RUS": {
-            "points": 11000,
+            "points": 11050,
             "joueurs": 29
         },
         "GBR": {
@@ -38,7 +38,7 @@
             "joueurs": 40
         },
         "CZE": {
-            "points": 8861,
+            "points": 8911,
             "joueurs": 21
         },
         "CAN": {
@@ -54,7 +54,7 @@
             "joueurs": 16
         },
         "BRA": {
-            "points": 5173,
+            "points": 5195,
             "joueurs": 28
         },
         "JPN": {
@@ -70,15 +70,15 @@
             "joueurs": 9
         },
         "POR": {
-            "points": 3251,
+            "points": 3280,
             "joueurs": 10
         },
         "POL": {
-            "points": 3009,
+            "points": 3109,
             "joueurs": 12
         },
         "SUI": {
-            "points": 2927,
+            "points": 2949,
             "joueurs": 19
         },
         "CHI": {
@@ -98,7 +98,7 @@
             "joueurs": 14
         },
         "MON": {
-            "points": 2374,
+            "points": 2474,
             "joueurs": 2
         },
         "PER": {
@@ -158,7 +158,7 @@
             "joueurs": 3
         },
         "RSA": {
-            "points": 871,
+            "points": 921,
             "joueurs": 5
         },
         "KOR": {
@@ -237,13 +237,13 @@
             "points": 225,
             "joueurs": 2
         },
+        "JOR": {
+            "points": 193,
+            "joueurs": 1
+        },
         "LAT": {
             "points": 188,
             "joueurs": 2
-        },
-        "JOR": {
-            "points": 171,
-            "joueurs": 1
         },
         "NZL": {
             "points": 167,
