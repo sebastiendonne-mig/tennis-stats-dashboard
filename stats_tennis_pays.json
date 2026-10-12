@@ -1,28 +1,28 @@
 {
-    "derniere_mise_a_jour": "2026-10-11 10:35:18 UTC",
+    "derniere_mise_a_jour": "2026-10-12 11:38:17 UTC",
     "donnees": {
         "USA": {
-            "points": 34333,
-            "joueurs": 97
+            "points": 34309,
+            "joueurs": 96
         },
         "ITA": {
-            "points": 30454,
+            "points": 30490,
             "joueurs": 78
         },
         "FRA": {
-            "points": 22292,
-            "joueurs": 80
+            "points": 22335,
+            "joueurs": 81
         },
         "ESP": {
-            "points": 19739,
+            "points": 19854,
             "joueurs": 49
         },
         "GER": {
-            "points": 16336,
+            "points": 16393,
             "joueurs": 47
         },
         "ARG": {
-            "points": 15730,
+            "points": 15738,
             "joueurs": 44
         },
         "AUS": {
@@ -30,23 +30,23 @@
             "joueurs": 42
         },
         "RUS": {
-            "points": 10575,
+            "points": 10628,
             "joueurs": 27
         },
         "GBR": {
-            "points": 9187,
+            "points": 9192,
             "joueurs": 40
         },
         "CZE": {
-            "points": 8907,
+            "points": 8922,
             "joueurs": 22
         },
         "CAN": {
-            "points": 5979,
+            "points": 6029,
             "joueurs": 11
         },
         "SRB": {
-            "points": 5964,
+            "points": 6014,
             "joueurs": 12
         },
         "BEL": {
@@ -54,19 +54,19 @@
             "joueurs": 16
         },
         "BRA": {
-            "points": 5121,
+            "points": 5163,
             "joueurs": 28
         },
         "JPN": {
-            "points": 4842,
+            "points": 4844,
             "joueurs": 43
         },
         "NED": {
-            "points": 4235,
+            "points": 4239,
             "joueurs": 19
         },
         "KAZ": {
-            "points": 3559,
+            "points": 3609,
             "joueurs": 9
         },
         "POR": {
@@ -78,27 +78,27 @@
             "joueurs": 12
         },
         "SUI": {
-            "points": 2947,
+            "points": 2952,
             "joueurs": 19
+        },
+        "CRO": {
+            "points": 2728,
+            "joueurs": 9
         },
         "CHI": {
             "points": 2700,
             "joueurs": 9
         },
-        "CRO": {
-            "points": 2696,
-            "joueurs": 9
+        "NOR": {
+            "points": 2481,
+            "joueurs": 5
         },
         "CHN": {
             "points": 2447,
             "joueurs": 14
         },
-        "NOR": {
-            "points": 2429,
-            "joueurs": 5
-        },
         "PER": {
-            "points": 2154,
+            "points": 2156,
             "joueurs": 6
         },
         "HUN": {
@@ -110,7 +110,7 @@
             "joueurs": 9
         },
         "GRE": {
-            "points": 1912,
+            "points": 1962,
             "joueurs": 6
         },
         "MON": {
@@ -118,7 +118,7 @@
             "joueurs": 2
         },
         "BUL": {
-            "points": 1379,
+            "points": 1388,
             "joueurs": 13
         },
         "ROU": {
@@ -126,11 +126,11 @@
             "joueurs": 16
         },
         "UKR": {
-            "points": 1235,
+            "points": 1237,
             "joueurs": 11
         },
         "SVK": {
-            "points": 1211,
+            "points": 1217,
             "joueurs": 7
         },
         "COL": {
@@ -198,7 +198,7 @@
             "joueurs": 6
         },
         "BLR": {
-            "points": 440,
+            "points": 442,
             "joueurs": 5
         },
         "LUX": {
@@ -254,7 +254,7 @@
             "joueurs": 2
         },
         "CIV": {
-            "points": 126,
+            "points": 133,
             "joueurs": 1
         },
         "JAM": {
@@ -262,7 +262,7 @@
             "joueurs": 1
         },
         "LBN": {
-            "points": 103,
+            "points": 105,
             "joueurs": 2
         },
         "MDA": {
