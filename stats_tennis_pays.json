@@ -1,16 +1,16 @@
 {
-    "derniere_mise_a_jour": "2026-10-15 08:49:23 UTC",
+    "derniere_mise_a_jour": "2026-10-16 08:43:48 UTC",
     "donnees": {
         "USA": {
-            "points": 34494,
+            "points": 34501,
             "joueurs": 96
         },
         "ITA": {
-            "points": 30578,
+            "points": 30612,
             "joueurs": 78
         },
         "FRA": {
-            "points": 22514,
+            "points": 22528,
             "joueurs": 81
         },
         "ESP": {
@@ -18,11 +18,11 @@
             "joueurs": 49
         },
         "GER": {
-            "points": 16501,
+            "points": 16717,
             "joueurs": 47
         },
         "ARG": {
-            "points": 15795,
+            "points": 15811,
             "joueurs": 44
         },
         "AUS": {
@@ -34,15 +34,15 @@
             "joueurs": 26
         },
         "GBR": {
-            "points": 9202,
+            "points": 9210,
             "joueurs": 40
         },
         "CZE": {
-            "points": 8967,
+            "points": 8975,
             "joueurs": 22
         },
         "CAN": {
-            "points": 6038,
+            "points": 6065,
             "joueurs": 11
         },
         "SRB": {
@@ -54,11 +54,11 @@
             "joueurs": 16
         },
         "BRA": {
-            "points": 5191,
+            "points": 5197,
             "joueurs": 28
         },
         "JPN": {
-            "points": 4886,
+            "points": 4905,
             "joueurs": 43
         },
         "NED": {
@@ -78,11 +78,11 @@
             "joueurs": 12
         },
         "SUI": {
-            "points": 2999,
+            "points": 3013,
             "joueurs": 20
         },
         "CRO": {
-            "points": 2757,
+            "points": 2764,
             "joueurs": 9
         },
         "CHI": {
@@ -90,7 +90,7 @@
             "joueurs": 9
         },
         "NOR": {
-            "points": 2588,
+            "points": 2595,
             "joueurs": 5
         },
         "CHN": {
@@ -150,7 +150,7 @@
             "joueurs": 6
         },
         "BIH": {
-            "points": 923,
+            "points": 931,
             "joueurs": 4
         },
         "BOL": {
@@ -218,7 +218,7 @@
             "joueurs": 5
         },
         "URU": {
-            "points": 371,
+            "points": 377,
             "joueurs": 2
         },
         "THA": {
