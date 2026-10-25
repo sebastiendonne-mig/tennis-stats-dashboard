@@ -1,12 +1,12 @@
 {
-    "derniere_mise_a_jour": "2026-10-24 08:37:19 UTC",
+    "derniere_mise_a_jour": "2026-10-25 08:56:00 UTC",
     "donnees": {
         "USA": {
-            "points": 34448,
+            "points": 34557,
             "joueurs": 96
         },
         "ITA": {
-            "points": 30173,
+            "points": 30260,
             "joueurs": 78
         },
         "FRA": {
@@ -14,23 +14,23 @@
             "joueurs": 80
         },
         "ESP": {
-            "points": 20922,
+            "points": 20928,
             "joueurs": 49
         },
         "GER": {
-            "points": 16452,
+            "points": 16517,
             "joueurs": 47
         },
         "ARG": {
-            "points": 15828,
+            "points": 15850,
             "joueurs": 44
         },
         "RUS": {
-            "points": 11096,
+            "points": 11186,
             "joueurs": 28
         },
         "AUS": {
-            "points": 11017,
+            "points": 11048,
             "joueurs": 42
         },
         "GBR": {
@@ -54,7 +54,7 @@
             "joueurs": 16
         },
         "BRA": {
-            "points": 4852,
+            "points": 4874,
             "joueurs": 28
         },
         "JPN": {
@@ -62,7 +62,7 @@
             "joueurs": 43
         },
         "NED": {
-            "points": 4274,
+            "points": 4339,
             "joueurs": 19
         },
         "KAZ": {
@@ -78,7 +78,7 @@
             "joueurs": 12
         },
         "SUI": {
-            "points": 3072,
+            "points": 3097,
             "joueurs": 19
         },
         "CRO": {
@@ -173,6 +173,10 @@
             "points": 755,
             "joueurs": 3
         },
+        "GEO": {
+            "points": 702,
+            "joueurs": 2
+        },
         "FIN": {
             "points": 695,
             "joueurs": 5
@@ -183,10 +187,6 @@
         },
         "LTU": {
             "points": 667,
-            "joueurs": 2
-        },
-        "GEO": {
-            "points": 637,
             "joueurs": 2
         },
         "TUR": {
