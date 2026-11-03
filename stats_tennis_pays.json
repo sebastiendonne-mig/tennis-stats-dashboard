@@ -1,20 +1,20 @@
 {
-    "derniere_mise_a_jour": "2026-11-02 11:58:43 UTC",
+    "derniere_mise_a_jour": "2026-11-03 11:36:15 UTC",
     "donnees": {
         "USA": {
-            "points": 33787,
+            "points": 33824,
             "joueurs": 95
         },
         "ITA": {
-            "points": 28998,
+            "points": 29079,
             "joueurs": 80
         },
         "FRA": {
-            "points": 22244,
+            "points": 22333,
             "joueurs": 79
         },
         "ESP": {
-            "points": 21255,
+            "points": 21325,
             "joueurs": 49
         },
         "GER": {
@@ -22,23 +22,23 @@
             "joueurs": 49
         },
         "ARG": {
-            "points": 15500,
-            "joueurs": 44
+            "points": 15533,
+            "joueurs": 45
         },
         "RUS": {
-            "points": 11064,
+            "points": 11104,
             "joueurs": 25
         },
         "AUS": {
-            "points": 11012,
+            "points": 11026,
             "joueurs": 40
         },
         "CZE": {
-            "points": 9367,
-            "joueurs": 22
+            "points": 9392,
+            "joueurs": 21
         },
         "GBR": {
-            "points": 8982,
+            "points": 9029,
             "joueurs": 40
         },
         "SRB": {
@@ -50,15 +50,15 @@
             "joueurs": 16
         },
         "CAN": {
-            "points": 5246,
+            "points": 5248,
             "joueurs": 11
         },
         "BRA": {
-            "points": 4824,
+            "points": 4836,
             "joueurs": 30
         },
         "JPN": {
-            "points": 4566,
+            "points": 4591,
             "joueurs": 45
         },
         "NED": {
@@ -74,7 +74,7 @@
             "joueurs": 9
         },
         "POR": {
-            "points": 3221,
+            "points": 3222,
             "joueurs": 11
         },
         "POL": {
@@ -85,13 +85,13 @@
             "points": 2705,
             "joueurs": 9
         },
-        "CHI": {
-            "points": 2579,
-            "joueurs": 10
-        },
         "NOR": {
-            "points": 2564,
+            "points": 2604,
             "joueurs": 5
+        },
+        "CHI": {
+            "points": 2583,
+            "joueurs": 10
         },
         "CHN": {
             "points": 2464,
@@ -101,16 +101,16 @@
             "points": 2153,
             "joueurs": 6
         },
-        "HUN": {
-            "points": 2081,
-            "joueurs": 8
-        },
         "GRE": {
-            "points": 2075,
+            "points": 2090,
             "joueurs": 6
         },
+        "HUN": {
+            "points": 2090,
+            "joueurs": 8
+        },
         "AUT": {
-            "points": 2032,
+            "points": 2034,
             "joueurs": 10
         },
         "MON": {
@@ -122,7 +122,7 @@
             "joueurs": 13
         },
         "SVK": {
-            "points": 1287,
+            "points": 1329,
             "joueurs": 7
         },
         "ROU": {
@@ -134,7 +134,7 @@
             "joueurs": 12
         },
         "COL": {
-            "points": 1127,
+            "points": 1132,
             "joueurs": 11
         },
         "IND": {
@@ -146,7 +146,7 @@
             "joueurs": 4
         },
         "PAR": {
-            "points": 949,
+            "points": 959,
             "joueurs": 1
         },
         "RSA": {
@@ -154,11 +154,11 @@
             "joueurs": 5
         },
         "BOL": {
-            "points": 928,
+            "points": 936,
             "joueurs": 3
         },
         "DEN": {
-            "points": 923,
+            "points": 931,
             "joueurs": 5
         },
         "KOR": {
@@ -186,7 +186,7 @@
             "joueurs": 2
         },
         "FIN": {
-            "points": 642,
+            "points": 644,
             "joueurs": 5
         },
         "TUR": {
@@ -226,7 +226,7 @@
             "joueurs": 2
         },
         "THA": {
-            "points": 323,
+            "points": 330,
             "joueurs": 5
         },
         "UZB": {
