@@ -1,28 +1,28 @@
 {
-    "derniere_mise_a_jour": "2026-11-13 11:50:30 UTC",
+    "derniere_mise_a_jour": "2026-11-14 11:11:28 UTC",
     "donnees": {
         "USA": {
-            "points": 34946,
+            "points": 35072,
             "joueurs": 95
         },
         "ITA": {
-            "points": 27727,
+            "points": 27744,
             "joueurs": 80
         },
         "FRA": {
-            "points": 23074,
+            "points": 23084,
             "joueurs": 78
         },
         "ESP": {
-            "points": 21300,
+            "points": 21345,
             "joueurs": 49
         },
         "GER": {
-            "points": 16149,
+            "points": 16165,
             "joueurs": 46
         },
         "ARG": {
-            "points": 15987,
+            "points": 16052,
             "joueurs": 44
         },
         "RUS": {
@@ -34,11 +34,11 @@
             "joueurs": 40
         },
         "CZE": {
-            "points": 9431,
+            "points": 9437,
             "joueurs": 22
         },
         "GBR": {
-            "points": 9034,
+            "points": 9056,
             "joueurs": 40
         },
         "SRB": {
@@ -50,7 +50,7 @@
             "joueurs": 17
         },
         "BRA": {
-            "points": 4867,
+            "points": 4877,
             "joueurs": 30
         },
         "CAN": {
@@ -70,7 +70,7 @@
             "joueurs": 11
         },
         "SUI": {
-            "points": 3368,
+            "points": 3374,
             "joueurs": 18
         },
         "KAZ": {
@@ -142,7 +142,7 @@
             "joueurs": 16
         },
         "DEN": {
-            "points": 991,
+            "points": 1013,
             "joueurs": 5
         },
         "BOL": {
@@ -158,7 +158,7 @@
             "joueurs": 1
         },
         "RSA": {
-            "points": 949,
+            "points": 955,
             "joueurs": 5
         },
         "KOR": {
@@ -178,7 +178,7 @@
             "joueurs": 1
         },
         "FIN": {
-            "points": 670,
+            "points": 689,
             "joueurs": 5
         },
         "EST": {
@@ -202,7 +202,7 @@
             "joueurs": 5
         },
         "URU": {
-            "points": 436,
+            "points": 446,
             "joueurs": 3
         },
         "TUN": {
@@ -242,7 +242,7 @@
             "joueurs": 2
         },
         "JOR": {
-            "points": 189,
+            "points": 199,
             "joueurs": 1
         },
         "LAT": {
