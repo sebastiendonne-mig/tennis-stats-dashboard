@@ -1,20 +1,20 @@
 {
-    "derniere_mise_a_jour": "2026-11-20 12:28:37 UTC",
+    "derniere_mise_a_jour": "2026-11-21 12:04:58 UTC",
     "donnees": {
         "USA": {
-            "points": 35956,
+            "points": 36003,
             "joueurs": 96
         },
         "ITA": {
-            "points": 27578,
+            "points": 27597,
             "joueurs": 82
         },
         "FRA": {
-            "points": 23487,
+            "points": 23535,
             "joueurs": 80
         },
         "ESP": {
-            "points": 21775,
+            "points": 21975,
             "joueurs": 48
         },
         "GER": {
@@ -22,15 +22,15 @@
             "joueurs": 47
         },
         "ARG": {
-            "points": 15951,
+            "points": 15961,
             "joueurs": 44
         },
         "RUS": {
-            "points": 11432,
+            "points": 11632,
             "joueurs": 27
         },
         "AUS": {
-            "points": 10860,
+            "points": 10882,
             "joueurs": 40
         },
         "CZE": {
@@ -38,11 +38,11 @@
             "joueurs": 22
         },
         "GBR": {
-            "points": 9009,
+            "points": 9085,
             "joueurs": 39
         },
         "SRB": {
-            "points": 5804,
+            "points": 5823,
             "joueurs": 11
         },
         "BEL": {
@@ -50,15 +50,15 @@
             "joueurs": 17
         },
         "CAN": {
-            "points": 4842,
+            "points": 4852,
             "joueurs": 11
         },
         "BRA": {
-            "points": 4700,
+            "points": 4720,
             "joueurs": 29
         },
         "JPN": {
-            "points": 4441,
+            "points": 4479,
             "joueurs": 41
         },
         "NED": {
@@ -66,7 +66,7 @@
             "joueurs": 20
         },
         "SUI": {
-            "points": 3446,
+            "points": 3456,
             "joueurs": 18
         },
         "POR": {
@@ -142,7 +142,7 @@
             "joueurs": 11
         },
         "DEN": {
-            "points": 1041,
+            "points": 1051,
             "joueurs": 5
         },
         "RSA": {
@@ -158,7 +158,7 @@
             "joueurs": 4
         },
         "KOR": {
-            "points": 900,
+            "points": 919,
             "joueurs": 13
         },
         "PAR": {
@@ -166,7 +166,7 @@
             "joueurs": 1
         },
         "FIN": {
-            "points": 802,
+            "points": 821,
             "joueurs": 5
         },
         "GEO": {
@@ -210,7 +210,7 @@
             "joueurs": 5
         },
         "SLO": {
-            "points": 418,
+            "points": 424,
             "joueurs": 6
         },
         "THA": {
