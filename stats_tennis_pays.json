@@ -1,12 +1,12 @@
 {
-    "derniere_mise_a_jour": "2026-11-21 12:04:58 UTC",
+    "derniere_mise_a_jour": "2026-11-22 12:15:25 UTC",
     "donnees": {
         "USA": {
-            "points": 36003,
+            "points": 36034,
             "joueurs": 96
         },
         "ITA": {
-            "points": 27597,
+            "points": 27626,
             "joueurs": 82
         },
         "FRA": {
@@ -14,11 +14,11 @@
             "joueurs": 80
         },
         "ESP": {
-            "points": 21975,
+            "points": 22375,
             "joueurs": 48
         },
         "GER": {
-            "points": 16681,
+            "points": 17081,
             "joueurs": 47
         },
         "ARG": {
@@ -38,7 +38,7 @@
             "joueurs": 22
         },
         "GBR": {
-            "points": 9085,
+            "points": 9157,
             "joueurs": 39
         },
         "SRB": {
@@ -50,15 +50,15 @@
             "joueurs": 17
         },
         "CAN": {
-            "points": 4852,
+            "points": 4874,
             "joueurs": 11
         },
         "BRA": {
-            "points": 4720,
+            "points": 4764,
             "joueurs": 29
         },
         "JPN": {
-            "points": 4479,
+            "points": 4521,
             "joueurs": 41
         },
         "NED": {
@@ -66,7 +66,7 @@
             "joueurs": 20
         },
         "SUI": {
-            "points": 3456,
+            "points": 3478,
             "joueurs": 18
         },
         "POR": {
@@ -153,20 +153,20 @@
             "points": 959,
             "joueurs": 3
         },
+        "KOR": {
+            "points": 948,
+            "joueurs": 13
+        },
         "BIH": {
             "points": 946,
             "joueurs": 4
-        },
-        "KOR": {
-            "points": 919,
-            "joueurs": 13
         },
         "PAR": {
             "points": 897,
             "joueurs": 1
         },
         "FIN": {
-            "points": 821,
+            "points": 850,
             "joueurs": 5
         },
         "GEO": {
