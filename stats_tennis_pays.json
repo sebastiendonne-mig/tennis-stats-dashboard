@@ -1,16 +1,16 @@
 {
-    "derniere_mise_a_jour": "2026-11-27 13:27:45 UTC",
+    "derniere_mise_a_jour": "2026-11-28 12:41:16 UTC",
     "donnees": {
         "USA": {
-            "points": 36041,
+            "points": 36047,
             "joueurs": 98
         },
         "ITA": {
-            "points": 27731,
+            "points": 27737,
             "joueurs": 82
         },
         "FRA": {
-            "points": 23507,
+            "points": 23535,
             "joueurs": 80
         },
         "ESP": {
@@ -22,15 +22,15 @@
             "joueurs": 46
         },
         "ARG": {
-            "points": 15869,
+            "points": 15879,
             "joueurs": 46
         },
         "RUS": {
-            "points": 11632,
+            "points": 11638,
             "joueurs": 27
         },
         "AUS": {
-            "points": 10822,
+            "points": 10866,
             "joueurs": 41
         },
         "CZE": {
@@ -46,19 +46,19 @@
             "joueurs": 11
         },
         "BEL": {
-            "points": 5380,
+            "points": 5386,
             "joueurs": 17
+        },
+        "BRA": {
+            "points": 4915,
+            "joueurs": 29
         },
         "CAN": {
             "points": 4874,
             "joueurs": 11
         },
-        "BRA": {
-            "points": 4873,
-            "joueurs": 29
-        },
         "JPN": {
-            "points": 4628,
+            "points": 4672,
             "joueurs": 40
         },
         "NED": {
@@ -130,7 +130,7 @@
             "joueurs": 16
         },
         "UKR": {
-            "points": 1164,
+            "points": 1175,
             "joueurs": 12
         },
         "IND": {
@@ -142,7 +142,7 @@
             "joueurs": 10
         },
         "RSA": {
-            "points": 953,
+            "points": 964,
             "joueurs": 5
         },
         "DEN": {
@@ -190,11 +190,11 @@
             "joueurs": 4
         },
         "TUR": {
-            "points": 640,
+            "points": 651,
             "joueurs": 7
         },
         "MEX": {
-            "points": 615,
+            "points": 621,
             "joueurs": 7
         },
         "URU": {
